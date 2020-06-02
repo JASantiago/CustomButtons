@@ -1,3 +1,3 @@
 # CustomButtons
 
-A description of this package.
+A test to start using SwiftPM inside our team
